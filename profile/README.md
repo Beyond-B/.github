@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 🫶Beyond:B🫶
+ 
 
 1. Check your environment settings: Make sure Android Studio and JDK (Java Development Kit) are installed, and update to the latest version if necessary. Also, make sure Android Studio is set up to use Git.
 
@@ -7,8 +7,8 @@
 
 3. Check Gradle settings: When you open a project, Android Studio will automatically start syncing Gradle. If your Gradle version is not 8.1.1, specify the Gradle version in the gradle-wrapper.properties file as follows:
 
-distributionUrl=https\://services.gradle.org/distributions/gradle-8.1.1-all.zip
-After making this change, Android Studio will try to sync Gradle again.
+  distributionUrl=https\://services.gradle.org/distributions/gradle-8.1.1-all.zip
+  After making this change, Android Studio will try to sync Gradle again.
 
 4. Check and sync dependencies: Review your project's build.gradle file (both project and app modules) to ensure all dependencies are set correctly and updated as necessary. Afterwards, click ‘Sync Now’ to apply the changes.
 
