@@ -14,11 +14,9 @@ The B in Beyond: B represents a boundary, and it symbolizes the desire to transc
 
 ## ✅ Project Vidio
 
-https://github.com/Beyond-B/.github/assets/146940671/1d7c1d2f-ddaf-41ab-82d3-bba2c228e652
-https://github.com/Beyond-B/.github/assets/146940671/3107dee7-6923-454c-b377-16175649e3b1
-https://github.com/Beyond-B/.github/assets/146940671/dac3ec75-e79f-469e-be1e-b9cfb3cd07a3
-
-
+https://github.com/Beyond-B/.github/assets/146940671/1d7c1d2f-ddaf-41ab-82d3-bba2c228e652   
+https://github.com/Beyond-B/.github/assets/146940671/3107dee7-6923-454c-b377-16175649e3b1   
+https://github.com/Beyond-B/.github/assets/146940671/dac3ec75-e79f-469e-be1e-b9cfb3cd07a3   
 
 ## ✅ Our goal
   1. The first challenge is the improvement of emotional recognition abilities. Individuals with borderline intelligence may often find it challenging to understand emotions in social   situations and to react appropriately to others' emotions. To address this issue, tools that help develop the ability to recognize and express one's emotions are necessary.
