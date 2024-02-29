@@ -2,6 +2,8 @@
 
 ### GDSC Solution Challenge 2024 : Service app for borderline intellectual functioning children
 ---
+<img width="1920" alt="Slide 16_9 - 1" src="https://github.com/Beyond-B/.github/assets/146940671/c11c7a33-ce00-485f-85ab-0e44f645568b">
+
 
 #### ✅ How to run
 1. Check your environment settings: Make sure Android Studio and JDK (Java Development Kit) are installed, and update to the latest version if necessary. Also, make sure Android Studio is set up to use Git.
