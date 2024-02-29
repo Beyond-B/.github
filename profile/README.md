@@ -8,7 +8,7 @@ We developed Beyond:B to address the challenges faced by individuals with border
 
 The B in Beyond: B represents a boundary, and it symbolizes the desire to transcend boundaries and lead to a society where everyone becomes one.
 
-[How to run](#✅-How-to-run)
+[How to run](#✅How-to-run)
 
 ---
 
