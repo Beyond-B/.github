@@ -4,7 +4,9 @@
 <img width="1920" alt="Slide 16_9 - 1" src="https://github.com/Beyond-B/.github/assets/146940671/c11c7a33-ce00-485f-85ab-0e44f645568b">
 
 **Hello!** 👋 We are students at GDSC Soongsil University. 
+
 We developed Beyond:B to address the challenges faced by individuals with borderline intelligence.
+
 The B in Beyond: B represents a boundary, and it symbolizes the desire to transcend boundaries and lead to a society where everyone becomes one.
 
 ---
