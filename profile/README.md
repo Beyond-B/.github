@@ -3,18 +3,22 @@
 ### GDSC Solution Challenge 2024 : Service app for borderline intellectual functioning children
 <img width="1920" alt="Slide 16_9 - 1" src="https://github.com/Beyond-B/.github/assets/146940671/c11c7a33-ce00-485f-85ab-0e44f645568b">
 
-**Hello!**👋 We are students at GDSC Soongsil University. 
+**Hello!** 👋 We are students at GDSC Soongsil University. 
 We developed Beyond:B to address the challenges faced by individuals with borderline intelligence.
 The B in Beyond: B represents a boundary, and it symbolizes the desire to transcend boundaries and lead to a society where everyone becomes one.
 
-#### ✅ Our goal
+---
+
+### ✅ Our goal
 1. The first challenge is the improvement of emotional recognition abilities. Individuals with borderline intelligence may often find it challenging to understand emotions in social situations and to react appropriately to others' emotions. To address this issue, tools that help develop the ability to recognize and express one's emotions are necessary.
+  
 2. The second challenge is the difficulty in reading. Individuals with borderline intelligence may sometimes struggle with tasks related to reading, which can be a significant barrier in the learning process. To overcome this problem, it is necessary to recommend books that are appropriate for the user's age and reading level, making reading more accessible and easier.
+  
 3. The third challenge is enhancing learning efficiency through repetitive learning. Repetition plays a crucial role in effectively acquiring and remembering knowledge. Individuals with borderline intelligence may need additional support in processing and storing new information. Providing quizzes or activities that allow for the repetition and practice of learned content can strengthen the learning process.
 
-By addressing these three challenges, the goal is to help individuals with borderline intelligence better adapt to social situations, reduce difficulties in learning and reading, and more effectively acquire and remember knowledge.
+**By addressing these three challenges, the goal is to help individuals with borderline intelligence better adapt to social situations, reduce difficulties in learning and reading, and more effectively acquire and remember knowledge.**
 
-#### ✅ How to run
+### ✅ How to run
 1. Check your environment settings: Make sure Android Studio and JDK (Java Development Kit) are installed, and update to the latest version if necessary. Also, make sure Android Studio is set up to use Git.
 
 2. Clone the project: Open Android Studio and select 'Check out project from Version Control', then select 'GitHub'. Enter the GitHub repository URL and clone the project to the desired directory.
