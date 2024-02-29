@@ -1,5 +1,5 @@
 # 💚 Beyond:B 💚 
-### GDSC Solution Challenge 2024 : Service app for borderline intellectual functioning children
+### GDSC Solution Challenge 2024 : Beyond:B
 <img width="1920" alt="Slide 16_9 - 1" src="https://github.com/Beyond-B/.github/assets/146940671/c11c7a33-ce00-485f-85ab-0e44f645568b">
 
 **Hello!** 👋 We are students at GDSC Soongsil University. 
@@ -13,6 +13,8 @@ The B in Beyond: B represents a boundary, and it symbolizes the desire to transc
 ---
 
 ## ✅ Project Vidio
+
+https://github.com/Beyond-B/.github/assets/146940671/1d7c1d2f-ddaf-41ab-82d3-bba2c228e652
 
 
 
