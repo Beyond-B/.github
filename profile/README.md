@@ -62,6 +62,13 @@ https://github.com/Beyond-B/.github/assets/146940671/dac3ec75-e79f-469e-be1e-b9c
 
   5. Run the app: Select 'Run' > 'Run 'app'' from the top menu of Android Studio, or click the 'Run' button (green triangle) on the toolbar to run the app. Before running, make sure AVD (Android Virtual Device) is set or there is an Android device connected.
 
+## ✅ Member
+|      Gaeun Lee      |         Seoneui Jee       |       Jinuk Lee      |      Minji Jeong         |                                                                                                    
+| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   <img src="https://avatars.githubusercontent.com/u/109636635?v=4" width="170" alt="깃허브계정-프로필사진"> |             <img src="https://avatars.githubusercontent.com/u/146940671?v=4" width="170" alt="깃허브계정-프로필사진">   |   <img src="https://avatars.githubusercontent.com/u/113356682?v=4" width="170" alt="깃허브계정-프로필사진">   |  <img src="https://avatars.githubusercontent.com/u/109158284?v=4" width="170" alt="깃허브계정-프로필사진">  |
+|   [@Ssamssamukja](https://github.com/Ssamssamukja)   |    [@sunnny619](https://github.com/sunnny619) | [@jinuklee777](https://github.com/jinuklee777)  | [@wjdalswl](https://github.com/wjdalswl)  |
+| Frontend | Design && Frontend | Backend | Backend |
+
 <!--
 **Here are some ideas to get you started:**
 🙋‍♀️ A short introduction - what is your organization all about?
