@@ -12,7 +12,7 @@ The B in Beyond: B represents a boundary, and it symbolizes the desire to transc
 
 ---
 
-## ✅ Project Vidio
+## ✅ Project Video
 
 https://github.com/Beyond-B/.github/assets/146940671/1d7c1d2f-ddaf-41ab-82d3-bba2c228e652   
 
